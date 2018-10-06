@@ -1,2 +1,1 @@
-# Coursera
-Some courses' hws in Coursera
+# Some great online-classes
